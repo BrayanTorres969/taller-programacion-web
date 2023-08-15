@@ -8,6 +8,10 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+li{
+    list-style: none;
+}
+
 
 .text{
     font-size: 14px;
